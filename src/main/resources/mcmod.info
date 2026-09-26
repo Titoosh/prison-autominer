@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "prisonautominer",
+    "name": "Prison AutoMiner",
+    "description": "Singleplayer prison-mine automation: bounded wander, smooth look, confirm-window handling, breaks and /sell.",
+    "version": "1.0.1",
+    "mcversion": "1.8.9",
+    "authorList": ["rotem"],
+    "credits": "",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "parent": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
